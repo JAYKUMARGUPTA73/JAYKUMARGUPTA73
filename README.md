@@ -135,11 +135,7 @@ An AI-powered contextual chatbot for ML queries with high response accuracy.
 
 ## 📌 Positions of Responsibility
 
-  <h3>
 - ✈️ **Secretary**, AeroModelling Club, NITKURUKSHETRA  
-  
-  </h3>
-
 - 🪖 **NCC Cadet**, Leadership and discipline training  
 - 💻 **Member**, Technobyte Technical Society  
 - 🏀 **Basketball Team Member**, NITK Inter-college tournaments  
