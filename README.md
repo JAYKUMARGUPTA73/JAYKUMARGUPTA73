@@ -1,116 +1,105 @@
-<!-- GitHub Profile README for Jay Kumar Gupta -->
-
-<h1 align="center">Jay Kumar Gupta</h1>
-
+<h1 align="center">Hey there, I'm Jay 👋</h1>
 <p align="center">
-🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; Backend Developer & AI Explorer  
+  <b>Computer Engineering @ NIT Kurukshetra</b><br>
+  <i>Backend Developer · AI Tinkerer · Tech Explorer</i>
 </p>
 
 <p align="center">
-<a href="mailto:jaynrk2002@gmail.com">✉️ Email</a> •
-<a href="https://leetcode.com/">LeetCode</a> •
-<a href="https://github.com/JAYKUMARGUPTA73">GitHub</a> •
-<a href="https://linkedin.com/in/jaykumargupta73">LinkedIn</a>
+  <a href="mailto:jaynrk2002@gmail.com">📧 Email</a> •
+  <a href="https://github.com/JAYKUMARGUPTA73">🐙 GitHub</a> •
+  <a href="https://leetcode.com/">🧠 LeetCode</a> •
+  <a href="https://linkedin.com/in/jaykumargupta73">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🧑‍🎓 Education
+## 🚀 About Me
 
-- **National Institute of Technology, Kurukshetra**  
-  *B.Tech in Computer Science* (2022–2026)  
-  CGPA: **8.57 / 10**
-
-- **Vivekananda Vision Public School**  
-  *12th Grade – 77%*
+🎓 Final year undergrad at **NIT Kurukshetra**  
+🔧 Obsessed with **building scalable backend systems**  
+🧠 Solved **600+ DSA problems** and counting  
+💭 Always curious about **AI/ML**, **cloud** & **system design**
 
 ---
 
-## 💡 Skills & Coursework
+## 🔥 Featured Projects
 
-**Advanced**  
-`C/C++` · `DSA` · `Machine Learning` · `Deep Learning` · `JavaScript` · `React.js` · `Node.js` · `Next.js` · `Mongoose`
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec) &nbsp;·&nbsp; [🌐 Live](https://spacexec.vercel.app)
+> A real estate ownership platform powered by NFT-style token logic
 
-**Intermediate**  
-`Java` · `SQL` · `HTML/CSS` · `Git/GitHub` · `Postman` · `VS Code` · `Dev C++` · `OOPs` · `OS` · `DBMS`
-
-**Beginner**  
-`Google Cloud` · `Computer Networks` · `IntelliJ IDEA` · `Theory of Computation`
-
-**Soft Skills**  
-Teamwork · Communication · Leadership  
-Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
+- 🛡️ SHA-based smart ownership contracts
+- 👥 4+ role-based dashboards (admin, vendor, user, partner)
+- 🚀 1,200+ API calls/day · 10K+ transaction logs · 50GB+ media  
+**Stack**: Mongoose · Firebase · NGINX · VPS · Postman
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 [AeroClub Website](https://github.com/JAYKUMARGUPTA73/aeroclub-web) &nbsp;·&nbsp; [🌍 Live](https://aeroclub.vercel.app)
+> Official club site with events, media, and attendance tracking
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec)
-A real estate investment platform enabling fractional ownership via NFT-style tokens  
-**Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
-- 2500+ users | 200+ properties | 5000+ token transactions  
-- Role-based dashboards for 4 user types  
-- Google sign-in & real-time analytics  
-- 1200+ daily API calls | 50+ GB media
+- ✅ QR-based attendance for 400+ members
+- 📊 3D pages using `react-three/drei`
+- 🔐 Admin panel, records & onboarding  
+**Stack**: React · Firebase · Mongoose · NGINX
 
 ---
 
-### 🌐 [AeroWebsite](https://github.com/JAYKUMARGUPTA73/aeroclub-web)
-Aeromodelling club portal with 3D pages and attendance system  
-**Tech**: React Three.js · Firebase · Mongoose · NGINX · VPS  
-- 2000+ users | 250+ daily logins  
-- 200+ QR-based check-ins/day  
-- 10,000+ records | 2000+ media files
+### 🤖 [AI Chatbot 2.1](https://github.com/JAYKUMARGUPTA73/ai-chatbot)
+> Interactive NLP chatbot trained on 30K+ chat lines
 
----
-
-### 🤖 [Chatbot-2.1](https://github.com/JAYKUMARGUPTA73/ai-chatbot)
-AI/ML chatbot with contextual learning  
-**Tech**: TensorFlow · Flask · Python · NLTK  
-- 30K+ conversation lines trained  
-- 94% accuracy · 90% context relevance  
-- 50 queries/min simulated load
+- 🧠 TensorFlow & NLTK for contextual conversation
+- 🗣️ 94% intent accuracy · Handles 50+ queries/min
+- 🔬 Flask-based interface with simulation  
+**Stack**: Python · TensorFlow · Flask
 
 ---
 
 ## 💼 Experience
 
-### 🔧 **Backend Intern @ CalInfo Pvt. Ltd.**  
-📍 Onsite | May 2024 – July 2024  
-- Created AI-powered chatbot for real estate business automation  
-- Used **TensorFlow**, **Flask**, and **React**  
-- Managed 100+ real-world queries/day with ANN & NLP
+### 🔧 **Backend Intern @ CalInfo Pvt. Ltd.** *(May–Jul 2024)*  
+> Built an **AI-powered chatbot** for real estate queries using TensorFlow + Flask + React  
+Handled 100+ queries/day with NLP & custom ANN logic
 
 ---
 
-## 🏅 Achievements
+## 🛠️ Tech Stack
 
-- 🧠 Solved 600+ problems on LeetCode, GFG & CodeStudio  
-- 🛩️ **Smart India Hackathon**: Developed drone surveillance tech for medical use  
-- 🔥 Regular contributor to open-source and personal backend tools
-
----
-
-## 📌 Positions of Responsibility
-
-- ✈️ **Secretary**, AeroModelling Club, NITK  
-- 🪖 **NCC Cadet**, Leadership and discipline training  
-- 💻 **Member**, Technobyte Technical Society  
-- 🏀 **Basketball Team Member**, NITK Inter-college tournaments  
+**Languages**: `C/C++` · `Python` · `JavaScript` · `Java`  
+**Frameworks**: `React.js` · `Node.js` · `Express` · `Next.js` · `Flask`  
+**Tools**: `Firebase` · `Docker` · `MongoDB` · `Vercel` · `Postman`  
+**Specialties**: `JWT Auth` · `REST APIs` · `QR Systems` · `AI Models`
 
 ---
 
-## 🧪 Experimental Zones
+## 🧠 Achievements
 
-🧱 **CodeCrucible** – Shaping raw ideas into dev marvels  
-🌌 **EdgeRunners** – Projects pushing the boundary  
-🧪 **DevHatchery** – WIPs, PoCs, and passion builds  
-🚧 **BuildVerse** – A universe of side quests and tech doodles
+- 💡 **600+ DSA problems** solved across LeetCode, GFG & CodeStudio  
+- 🛩️ Finalist @ **Smart India Hackathon** – Drone medical surveillance system  
+- 🏀 College Basketball Player – Represented NIT Kurukshetra  
+- 🎖 NCC Cadet | 🔧 Club Secretary – AeroModelling Club
 
-> _“Engineering is not just about code—it's about **impact**.”_
+---
+
+## ✨ Code Labs (In Progress)
+
+| Lab | Description |
+|-----|-------------|
+| 🧪 [DevHatchery](https://github.com/JAYKUMARGUPTA73/DevHatchery) | Ideas in incubation – prototypes & passion |
+| 🧱 [BuildVerse](https://github.com/JAYKUMARGUPTA73/BuildVerse) | Personal dev galaxy – tiny to titan |
+| 🌌 [EdgeRunners](https://github.com/JAYKUMARGUPTA73/EdgeRunners) | Pushing tech to its edge |
+| 🔂 [CodeCrucible](https://github.com/JAYKUMARGUPTA73/CodeCrucible) | Melting raw logic into deployable gold |
+
+---
+
+## 📫 Contact Me
+
+- 🌐 **Portfolio**: [jaygupta.dev](https://jaygupta.dev)
+- 📧 **Email**: jaynrk2002@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/jaykumargupta73](https://linkedin.com/in/jaykumargupta73)
 
 ---
 
 <p align="center">
-Crafted with ❤️ by Jay Kumar Gupta | © 2025
+  <i>“Code with purpose. Build with impact.”</i><br><br>
+  <b>Made with ❤️ by Jay Kumar Gupta</b>
 </p>
