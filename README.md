@@ -13,19 +13,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jaynrk2002@gmail.com">
+  <a href="mailto:jaynrk2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-jaynrk2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/jaynrk2002/">
+  <a href="https://leetcode.com/u/jaynrk2002/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
-  <a href="https://github.com/JAYKUMARGUPTA73">
+  <a href="https://github.com/JAYKUMARGUPTA73" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jay-kumar-gupta-b53368250">
+  <a href="https://www.linkedin.com/in/jay-kumar-gupta-b53368250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
