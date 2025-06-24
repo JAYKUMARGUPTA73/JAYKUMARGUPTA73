@@ -37,7 +37,7 @@
 - **Vivekananda Vision Public School**  
   *12th Grade – 77%*
 
-  - **Vivekananda Vision Public School**  
+- **Vivekananda Vision Public School**  
   *10th Grade – 92%*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
