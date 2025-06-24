@@ -24,7 +24,9 @@
 </p>
 
 
----
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 🧑‍🎓 Education
 
@@ -35,7 +37,11 @@
 - **Vivekananda Vision Public School**  
   *12th Grade – 77%*
 
----
+  - **Vivekananda Vision Public School**  
+  *10th Grade – 92%*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 💡 Skills & Coursework
 
@@ -56,7 +62,7 @@ Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
 ## 🚀 Featured Projects
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec) &nbsp;|&nbsp; [🌐 Live Demo](https://spacexec.vercel.app)
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec) &nbsp;|&nbsp; [🌐 Live website](http://51.79.146.251:8080/)
 A blockchain-inspired real estate platform enabling fractional ownership through NFT-style tokens.  
 **Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
 - 2500+ users | 200+ properties | 5000+ token transactions  
@@ -76,12 +82,22 @@ Official portal for the AeroModelling Club, NIT Kurukshetra with 3D integration 
 
 ---
 
-### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp-test)
+### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.vercel.app/)
 A full-stack travel platform with multi-role access and payment integration.  
 **Tech**: React · Node.js · MongoDB · Express · JWT Auth · Razorpay  
-- Multi-role user dashboards  
+- Multi-role user dashboards
+- Being used by real time users for their thrilling adventure expierience  
 - Secure payment gateway integration  
 - 10,000+ active users (simulated)
+---
+
+### 🏨 [HMS – Hostel Management System](https://github.com/JAYKUMARGUPTA73/Hms_deployed-j-) &nbsp;|&nbsp; [🧪 Live Demo](https://hms-deployed.onrender.com/login)
+Smart hostel management portal with multi-role login, room allocation, and payment gateway integration.  
+**Tech**: MERN · Razorpay · Cloudinary · JWT Auth  
+- Roles: Admin, Warden, Student  
+- Room booking, fee status, real-time updates  
+- Image upload, Razorpay payment handling  
+- 2000+ records | 500+ users onboarded
 
 ---
 
@@ -92,17 +108,8 @@ An AI-powered contextual chatbot for ML queries with high response accuracy.
 - 100+ unique query types | 50 queries/min simulation  
 - Used for testing human-like interactions in ML-related domains
 
----
 
-### 🏨 [HMS – Hostel Management System](https://github.com/JAYKUMARGUPTA73/Hms_deployed-j-) &nbsp;|&nbsp; [🧪 Live Demo](https://hostelease.vercel.app)
-Smart hostel management portal with multi-role login, room allocation, and payment gateway integration.  
-**Tech**: MERN · Razorpay · Cloudinary · JWT Auth  
-- Roles: Admin, Warden, Student  
-- Room booking, fee status, real-time updates  
-- Image upload, Razorpay payment handling  
-- 2000+ records | 500+ users onboarded
-
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💼 Experience
 
@@ -112,19 +119,27 @@ Smart hostel management portal with multi-role login, room allocation, and payme
 - Used **TensorFlow**, **Flask**, and **React**  
 - Managed 100+ real-world queries/day with ANN & NLP
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🏅 Achievements
 
-- 🧠 Solved 600+ problems on LeetCode, GFG & CodeStudio  
-- 🛩️ **Smart India Hackathon**: Developed drone surveillance tech for medical use  
-- 🔥 Regular contributor to open-source and personal backend tools
+- 🧠 Solved **600+ DSA problems** across platforms:  
+  - [LeetCode](https://leetcode.com/u/jaynrk2002/) – 450+ problems  
+  - [CodeChef](https://www.codechef.com/users/jaynrk2002) – 1473 rating, **3★ Rated**  
+  - [Codeforces](https://codeforces.com/profile/nickname2002) – 100+ problems, **Max Rating: 1250 (Pupil)**  
 
----
+- 🛩️ **Smart India Hackathon**: Developed drone surveillance tech for medical use  
+
+- 🔥 Regular contributor to **open-source projects**, backend automation tools & scalable systems
+
 
 ## 📌 Positions of Responsibility
 
-- ✈️ **Secretary**, AeroModelling Club, NITK  
+  <h3>
+- ✈️ **Secretary**, AeroModelling Club, NITKURUKSHETRA  
+  
+  </h3>
+
 - 🪖 **NCC Cadet**, Leadership and discipline training  
 - 💻 **Member**, Technobyte Technical Society  
 - 🏀 **Basketball Team Member**, NITK Inter-college tournaments  
@@ -133,10 +148,8 @@ Smart hostel management portal with multi-role login, room allocation, and payme
 
 ## 🧪 Experimental Zones
 
-🧱 **CodeCrucible** – Shaping raw ideas into dev marvels  
-🌌 **EdgeRunners** – Projects pushing the boundary  
-🧪 **DevHatchery** – WIPs, PoCs, and passion builds  
-🚧 **BuildVerse** – A universe of side quests and tech doodles
+🧱 **Improving SpaceXec To cater Fragmented market in INDIA** – Shaping raw ideas into dev marvels  
+🌌 **Travelxec- an inovative journey to adventure and thrill powered by coding** – Projects pushing the boundary  
 
 > _“Engineering is not just about code—it's about **impact**.”_
 
