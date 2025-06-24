@@ -1,8 +1,10 @@
 <!-- GitHub Profile README for Jay Kumar Gupta -->
 
 
-<h1 align="center">👋 Hi, I’m Jay Kumar Gupta</h1>
-<p align="center"><i>Fragments of logic. Every great system starts somewhere.</i></p>
+<h1 align="center">👋 Hi, I’m Jay Kumar Gupta</h1><p align="center">
+ <img src="https://img.shields.io/badge/Fragments_of_logic-Every_great_system_starts_somewhere-0A192F?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 <p align="center">
 🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; Backend Developer & AI Explorer  
