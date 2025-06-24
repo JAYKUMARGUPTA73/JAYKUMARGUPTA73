@@ -16,7 +16,7 @@
   <a href="mailto:jaynrk2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-jaynrk2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/jaynrk2002/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
   <a href="https://github.com/JAYKUMARGUPTA73">
