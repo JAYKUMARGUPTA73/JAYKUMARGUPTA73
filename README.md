@@ -9,7 +9,7 @@
 
 
 <p align="center">
-🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; Backend Developer & AI Explorer  
+🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; DSA Enthusiast | &nbsp; Backend Developer & AI-ML Explorer  
 </p>
 
 <p align="center">
