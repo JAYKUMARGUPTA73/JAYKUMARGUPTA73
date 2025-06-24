@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/nickname2002" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=green" />
+    <img src="https://img.shields.io/badge/Codeforces-28a745?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jay-kumar-gupta-b53368250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
