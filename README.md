@@ -1,10 +1,11 @@
 <!-- GitHub Profile README for Jay Kumar Gupta -->
 
 
-<h1 align="center">
+<h1 align="center" style="color: white; font-family: Fira Code;">
   👋 Hi, I’m 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=007F5F&center=true&vCenter=true&width=280&lines=Jay+Kumar+Gupta" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=300&lines=Jay+Kumar+Gupta" />
 </h1>
+
 
 <p align="center">
   <span class="badge-pulse">
