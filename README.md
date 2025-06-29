@@ -4,10 +4,24 @@
 <h1 align="center">👋 Hi, I’m Jay Kumar Gupta</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Fragments_of_logic-Every_great_system_starts_somewhere-007F5F?style=for-the-badge&logo=github&logoColor=white" />
-
-
+  <span class="badge-pulse">
+    <img src="https://img.shields.io/badge/Fragments_of_logic:%20Every_great_system_starts_somewhere-007F5F?style=for-the-badge&logo=github&logoColor=white" />
+  </span>
 </p>
+
+<style>
+  .badge-pulse {
+    display: inline-block;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
+
 
 
 
