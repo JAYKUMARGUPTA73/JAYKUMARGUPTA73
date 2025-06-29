@@ -2,8 +2,10 @@
 
 
 <h1 align="center" style="color: white; font-family: Fira Code;">
-  👋 Hi, I’m 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=300&lines=Jay+Kumar+Gupta" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I’m+Jay+Kumar+Gupta" />
+</p>
+
 </h1>
 
 
