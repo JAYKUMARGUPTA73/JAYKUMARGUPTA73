@@ -2,8 +2,11 @@
 
 
 <h1 align="center">👋 Hi, I’m Jay Kumar Gupta</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Fragments_of_logic: Every_great_system_starts_somewhere-007F5F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Fragments_of_logic-Every_great_system_starts_somewhere-007F5F?style=for-the-badge&logo=github&logoColor=white" />
+
+
 </p>
 
 
