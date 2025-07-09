@@ -102,7 +102,7 @@ Official portal for the AeroModelling Club, NIT Kurukshetra with 3D integration 
 
 ---
 
-### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.vercel.app/)
+### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.com/)
 A full-stack travel platform with multi-role access and payment integration.  
 **Tech**: React · Node.js · MongoDB · Express · JWT Auth · Razorpay  
 - Multi-role user dashboards
