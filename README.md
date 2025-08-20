@@ -82,7 +82,7 @@ Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
 ## 🚀 Featured Projects
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec) &nbsp;|&nbsp; [🌐 Live website](http://51.79.146.251:8080/)
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](http://51.79.146.251:8080/)
 A blockchain-inspired real estate platform enabling fractional ownership through NFT-style tokens.  
 **Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
 - 2500+ users | 200+ properties | 5000+ token transactions  
