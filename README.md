@@ -1,5 +1,11 @@
 <!-- GitHub Profile README for Jay Kumar Gupta -->
 
+<p align="center">
+  <a href="https://hits.sh/github.com/JAYKUMARGUPTA73/">
+    <img src="https://hits.sh/github.com/JAYKUMARGUPTA73.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=007ec6" alt="Profile Views"/>
+  </a>
+</p>
+
 
 <h1 align="center" style="color: white; font-family: Fira Code;">
 <p align="center">
@@ -52,7 +58,7 @@
 
 - **National Institute of Technology, Kurukshetra**  
   *B.Tech in Computer Science* (2022–2026)  
-  CGPA: **8.57 / 10**
+  CGPA: **8.67 / 10**
 
 - **Vivekananda Vision Public School**  
   *12th Grade – 77%*
@@ -82,7 +88,7 @@ Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
 ## 🚀 Featured Projects
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](http://51.79.146.251:8080/)
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](https://spacexec.com/)
 A blockchain-inspired real estate platform enabling fractional ownership through NFT-style tokens.  
 **Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
 - 2500+ users | 200+ properties | 5000+ token transactions  
