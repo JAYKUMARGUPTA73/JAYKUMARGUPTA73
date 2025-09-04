@@ -90,11 +90,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-VS Code · Dev C++ · OOPs · OS · DBMS
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dev C++](https://img.shields.io/badge/Dev_C++-00599C?style=for-the-badge)
+![OOPs](https://img.shields.io/badge/OOPs-9C27B0?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-FF5722?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge)
 
 ### **Beginner**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-Computer Networks · IntelliJ IDEA · Theory of Computation
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-00BCD4?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Theory of Computation](https://img.shields.io/badge/Theory_of_Computation-FF9800?style=for-the-badge)
 
 ### **Soft Skills**
 Teamwork · Communication · Leadership  
