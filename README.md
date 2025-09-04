@@ -21,6 +21,16 @@
   </span>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAYKUMARGUPTA73&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYKUMARGUPTA73&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAYKUMARGUPTA73&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 
@@ -156,7 +166,7 @@ An AI-powered contextual chatbot for ML queries with high response accuracy.
 ## 🏅 Achievements
 
 - 🧠 Solved **600+ DSA problems** across platforms:  
-  - [LeetCode](https://leetcode.com/u/jaynrk2002/) – 450+ problems  
+  - [LeetCode](https://leetcode.com/u/jaynrk2002/) – 650+ problems  
   - [CodeChef](https://www.codechef.com/users/jaynrk2002) – 1473 rating, **3★ Rated**  
   - [Codeforces](https://codeforces.com/profile/nickname2002) – 100+ problems, **Max Rating: 1250 (Pupil)**  
 
