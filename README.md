@@ -1,19 +1,14 @@
 <!-- GitHub Profile README for Jay Kumar Gupta -->
 
-
 <p align="center">
   <a href="https://hits.sh/github.com/JAYKUMARGUPTA73/">
     <img src="https://hits.sh/github.com/JAYKUMARGUPTA73.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=007ec6" alt="Profile Views"/>
   </a>
 </p>
 
-
 <h1 align="center" style="color: white; font-family: Fira Code;">
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I’m+Jay+Kumar+Gupta" />
-</p>
 </h1>
-
 
 <p align="center">
   <span class="badge-pulse">
@@ -21,14 +16,8 @@
   </span>
 </p>
 
-
-
-
-
-
-
 <p align="center">
-🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; DSA Enthusiast | &nbsp; Backend Developer & AI-ML Explorer  
+  🚀 Computer Engineering @ NIT Kurukshetra &nbsp; | &nbsp; DSA Enthusiast | &nbsp; Backend Developer & AI-ML Explorer  
 </p>
 
 <p align="center">
@@ -49,11 +38,7 @@
   </a>
 </p>
 
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 ## 🧑‍🎓 Education
 
@@ -67,8 +52,7 @@
 - **Vivekananda Vision Public School**  
   *10th Grade – 92%*
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 ## 💡 Skills & Coursework
 
@@ -103,37 +87,36 @@
 ![Theory of Computation](https://img.shields.io/badge/Theory_of_Computation-FF9800?style=for-the-badge)
 
 ### **Soft Skills**
-Teamwork · Communication · Leadership  
+🤝 Teamwork · 🗣️ Communication · 🎯 Leadership  
 💡 Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
-
+---
 
 ## 🚀 Featured Projects
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](https://spacexec.com/) &nbsp; <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />  
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) | [🌐 Live website](https://spacexec.com/) <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />
 A blockchain-inspired real estate platform enabling fractional ownership through NFT-style tokens.  
 **Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
 - 2500+ users | 200+ properties | 5000+ token transactions  
 - Role-based dashboards for Admin, Vendor, Partner & User  
 - Google login, real-time analytics, secured API communication  
 - 1200+ daily API calls | 50+ GB media  
-✅ **Currently being used in the real estate market by active users**  
+✅ **Currently being used in the real estate market by active users**
 
 ---
 
-### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.com/) &nbsp; <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />  
+### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) | [🌐 Live website](https://travelxec.com/) <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />
 A full-stack travel platform with multi-role access and payment integration.  
 **Tech**: React · Node.js · MongoDB · Express · JWT Auth · Razorpay  
 - Multi-role user dashboards  
 - Being used by real-time users for their thrilling adventure experience  
 - Secure payment gateway integration  
 - 10,000+ active users (simulated)  
-✅ **Deployed and actively used in the travel & adventure market**  
+✅ **Deployed and actively used in the travel & adventure market**
 
+---
 
-
-
-### 🌐 [AeroWebsite](https://github.com/JAYKUMARGUPTA73/AERO-2.O) &nbsp;|&nbsp; [🌍 Live website](https://aeronitkkr.in)
+### 🌐 [AeroWebsite](https://github.com/JAYKUMARGUPTA73/AERO-2.O) | [🌍 Live website](https://aeronitkkr.in)  
 Official portal for the AeroModelling Club, NIT Kurukshetra with 3D integration and QR-based attendance.  
 **Tech**: React Three.js · Firebase · Mongoose · NGINX · VPS  
 - 2000+ users | 250+ daily logins  
@@ -143,9 +126,7 @@ Official portal for the AeroModelling Club, NIT Kurukshetra with 3D integration 
 
 ---
 
-
-
-### 🏨 [HMS – Hostel Management System](https://github.com/JAYKUMARGUPTA73/Hms_deployed-j-) &nbsp;|&nbsp; [🧪 Live Demo](https://hms-deployed.onrender.com/login)
+### 🏨 [HMS – Hostel Management System](https://github.com/JAYKUMARGUPTA73/Hms_deployed-j-) | [🧪 Live Demo](https://hms-deployed.onrender.com/login)  
 Smart hostel management portal with multi-role login, room allocation, and payment gateway integration.  
 **Tech**: MERN · Razorpay · Cloudinary · JWT Auth  
 - Roles: Admin, Warden, Student  
@@ -155,15 +136,14 @@ Smart hostel management portal with multi-role login, room allocation, and payme
 
 ---
 
-### 🤖 [Chatbot-2.1](https://github.com/JAYKUMARGUPTA73/Chatbot2.1)
+### 🤖 [Chatbot-2.1](https://github.com/JAYKUMARGUPTA73/Chatbot2.1)  
 An AI-powered contextual chatbot for ML queries with high response accuracy.  
 **Tech**: TensorFlow · Flask · Python · NLTK  
 - 30K+ training sentences | 94% accuracy  
 - 100+ unique query types | 50 queries/min simulation  
 - Used for testing human-like interactions in ML-related domains
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 💼 Experience
 
@@ -173,7 +153,7 @@ An AI-powered contextual chatbot for ML queries with high response accuracy.
 - Used **TensorFlow**, **Flask**, and **React**  
 - Managed 100+ real-world queries/day with ANN & NLP
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🏅 Achievements
 
@@ -186,13 +166,14 @@ An AI-powered contextual chatbot for ML queries with high response accuracy.
 
 - 🔥 Regular contributor to **open-source projects**, backend automation tools & scalable systems
 
+---
 
 ## 📌 Positions of Responsibility
 
 - ✈️ **Secretary**, AeroModelling Club, NITKURUKSHETRA  
 - 🪖 **NCC Cadet**, Leadership and discipline training  
 - 💻 **Member**, Technobyte Technical Society  
-- 🏀 **Basketball Team Member**, NITK Inter-college tournaments  
+- 🏀 **Basketball Team Member**, NITK Inter-college tournaments
 
 ---
 
