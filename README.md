@@ -56,38 +56,39 @@
 
 ## 💡 Skills & Coursework
 
-### **Advanced**
+### **Programming & DSA**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-6F42C1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OOPs](https://img.shields.io/badge/OOPs-9C27B0?style=for-the-badge)
+
+### **Frameworks & Web**
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
-### **Intermediate**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **AI / ML**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6F42C1?style=for-the-badge)
+
+### **Tools & Soft Skills**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/Dev_C++-00599C?style=for-the-badge)
-![OOPs](https://img.shields.io/badge/OOPs-9C27B0?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-FF5722?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge)
-
-### **Beginner**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-00BCD4?style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Theory of Computation](https://img.shields.io/badge/Theory_of_Computation-FF9800?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-29B6F6?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-FFB74D?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-8E24AA?style=for-the-badge)
 
-### **Soft Skills**
-🤝 Teamwork · 🗣️ Communication · 🎯 Leadership  
 💡 Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
 ---
