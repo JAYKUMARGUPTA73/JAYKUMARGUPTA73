@@ -88,7 +88,7 @@ Over **600+ DSA problems** solved across LeetCode, CodeStudio, and GFG
 
 ## 🚀 Featured Projects
 
-### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](https://spacexec.com/) &nbsp; <img src="https://img.shields.io/static/v1?label=🚀&message=Live%20in%20Market&color=brightgreen&style=flat-square" alt="Live in Market" />  
+### 🛰️ [SpaceXec](https://github.com/JAYKUMARGUPTA73/spacexec_) &nbsp;|&nbsp; [🌐 Live website](https://spacexec.com/) &nbsp; <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />  
 A blockchain-inspired real estate platform enabling fractional ownership through NFT-style tokens.  
 **Tech**: Mongoose · Firebase · NGINX · VPS · Postman  
 - 2500+ users | 200+ properties | 5000+ token transactions  
@@ -99,7 +99,7 @@ A blockchain-inspired real estate platform enabling fractional ownership through
 
 ---
 
-### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.com/) &nbsp; <img src="https://img.shields.io/static/v1?label=🚀&message=Live%20in%20Market&color=brightgreen&style=flat-square" alt="Live in Market" />  
+### 🌍 [TravelXp](https://github.com/JAYKUMARGUPTA73/travelxp) &nbsp;|&nbsp; [🌐 Live website](https://travelxec.com/) &nbsp; <img src="https://img.shields.io/badge/🚀-Live%20in%20Market-brightgreen?style=flat-square" />  
 A full-stack travel platform with multi-role access and payment integration.  
 **Tech**: React · Node.js · MongoDB · Express · JWT Auth · Razorpay  
 - Multi-role user dashboards  
