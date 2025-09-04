@@ -21,16 +21,7 @@
   </span>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAYKUMARGUPTA73&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYKUMARGUPTA73&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAYKUMARGUPTA73&theme=radical" alt="GitHub Streak"/>
-</p>
 
 
 
