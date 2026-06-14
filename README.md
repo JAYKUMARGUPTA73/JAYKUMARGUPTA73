@@ -44,7 +44,7 @@
 
 - **National Institute of Technology, Kurukshetra**  
   *B.Tech in Computer Science* (2022–2026)  
-  CGPA: **8.67 / 10**
+  CGPA: **8.89 / 10**
 
 - **Vivekananda Vision Public School**  
   *12th Grade – 77%*
